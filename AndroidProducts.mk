@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/rising_spartan.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rmx3371-user \
-    lineage_rmx3371-userdebug \
-    lineage_rmx3371-eng
+    rising_spartan-user \
+    rising_spartan-userdebug \
+    rising_spartan-eng
